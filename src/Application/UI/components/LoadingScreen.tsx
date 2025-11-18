@@ -149,16 +149,16 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         <div style={styles.logoContainer}>
                             <div>
                                 <p style={styles.green}>
-                                    <b>Heffernan,</b>{' '}
+                                    <b>Evsikoff,</b>{' '}
                                 </p>
                                 <p style={styles.green}>
-                                    <b>Henry Inc.</b>
+                                    <b>Andy Inc.</b>
                                 </p>
                             </div>
                         </div>
                         <div style={styles.headerInfo}>
                             <p>Released: 01/13/2000</p>
-                            <p>HHBIOS (C)2000 Heffernan Henry Inc.,</p>
+                            <p>HHBIOS (C)2000 Evsikoff Andy Inc.,</p>
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">
